@@ -7,12 +7,12 @@
 
 [English](./README.md) | 中文
 
-[![构建状态](https://github.com/ILoveScratch2/OpenListBuilder/actions/workflows/daily.yml/badge.svg)](https://github.com/ILoveScratch2/OpenListBuilder/actions)
+[![构建状态](https://github.com/iosxlb/OpenListBuilder/actions/workflows/daily.yml/badge.svg)](https://github.com/iosxlb/OpenListBuilder/actions)
 
 从最新源码自动构建的OpenList。本仓库提供直接从官方OpenList源码编译的预构建二进制文件。
 
 ## 📦 下载二进制文件
-从[发布页面](https://github.com/yourusername/OpenListBuilder/releases/latest)获取最新预编译版本
+从[发布页面](https://github.com/iosxlb/OpenListBuilder/releases/latest)获取最新预编译版本
 
 ## 🔧 构建流程
 在以下情况触发自动构建：
