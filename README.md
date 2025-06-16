@@ -7,14 +7,14 @@
 
 English | [中文](./README.zhcn.md)
   
-[![Build Status](https://github.com/ILoveScratch2/OpenListBuilder/actions/workflows/daily.yml/badge.svg)](https://github.com/ILoveScratch2/OpenListBuilder/actions)
+[![Build Status](https://github.com/iosxlb/OpenListBuilder/actions/workflows/daily.yml/badge.svg)](https://github.com/iosxlb/OpenListBuilder/actions)
 
 
 
 Automated builds of [OpenList](https://github.com/OpenListTeam/OpenList) from latest source code. This repository provides pre-compiled binaries built directly from the official OpenList repository.
 
 ## 📦 Download Binaries
-Get the latest pre-built binaries from [Releases](https://github.com/ILoveScratch2/OpenListBuilder/releases) page.
+Get the latest pre-built binaries from [Releases](https://github.com/iosxlb/OpenListBuilder/releases) page.
 
 ## 🔧 Build Process
 We automatically build new binaries when:
@@ -37,7 +37,7 @@ This is an unofficial project. Not affiliated with OpenList developers.
 Binaries are provided AS-IS without warranties.
 
 ## ⁉️ Issues
-Report build problems [here](https://github.com/ILoveScratch2/OpenListBuilder/issues)
+Report build problems [here](https://github.com/iosxlb/OpenListBuilder/issues)
 
 ## LICENSE
 
